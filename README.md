@@ -47,7 +47,6 @@ src="https://img.shields.io/github/followers/stuk4?logo=github&style=for-the-bad
 
 <a href="http://www.github.com/stuk4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stuk4&stroke=64748b&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
