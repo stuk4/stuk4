@@ -9,7 +9,7 @@ I am passionate about software development and technology.
 * 🌍  I'm based in Chile
 * 🖥️  See my portfolio at [www.bastianperez.com](http://www.bastianperez.com)
 * ✉️  You can contact me at [didier.bpp@gmail.com](mailto:didier.bpp@gmail.com)
-* 🧠  I'm learning  Flutter, Software Quality and Security
+* 🧠  I'm learning  Swift, Software Quality and Security
 * ⚡  I like memes
 
 <a href="https://www.github.com/stuk4" target="_blank" rel="noreferrer"><img
